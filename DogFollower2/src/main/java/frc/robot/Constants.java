@@ -10,6 +10,10 @@ final class Constants {
     int kCentralized = 10;
     int kTolerance = 5; 
     int kCT = kCentralized + kTolerance;
+    int kSecurityDistance = 20;
+
+    double maxArea = 1;
+    double minArea = 0.3;
 
     double kSpd = 0.3;
 }
